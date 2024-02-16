@@ -1,1 +1,1 @@
-# Stock-Market-Forecasting-ML_Project
+# Developed a stock market forecasting model using LSTM networks
