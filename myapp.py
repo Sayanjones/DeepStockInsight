@@ -9,8 +9,9 @@ st.write("""
 
 """)
 
-# https://towardsdatascience.com/how-to-get-stock-data-using-python-c0de1df17e75
+#https://towardsdatascience.com/how-to-get-stock-data-using-python-c0de1df17e75
 #define the ticker symbol
+#RNN and Lstms can be used
 tickerSymbol = 'GOOGL'
 #get data on this ticker
 tickerData = yf.Ticker(tickerSymbol)
