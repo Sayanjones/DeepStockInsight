@@ -70,7 +70,7 @@ The predicted stock prices are plotted against the actual test data to visualize
 ### Installation:
 1. Clone the repository:```git clone https://github.com/your-username/StockFusion.git```
 <br/>
-2. ```Run the notebook or script to train the model and make predictions.```
+2. Run the notebook or script to train the model and make predictions.
 
 ### Usage:
 This project can be used as a reference for creating hybrid models that integrate financial data with sentiment analysis to predict stock prices. It can be extended to other datasets or modified for real-time predictions.
