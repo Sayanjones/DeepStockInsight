@@ -14,6 +14,7 @@ StockFusion is a hybrid model developed for predicting stock prices by leveragin
 
 ### Dataset:
 ****Stock Data:-****
+<br/>
 **Source:** Yahoo Finance via yfinance library.
 <br/>
 **Timeframe:** 2001-01-02 to 2020-12-31.
@@ -21,6 +22,7 @@ StockFusion is a hybrid model developed for predicting stock prices by leveragin
 **Features:** Open, High, Low, Close, Adjusted Close, Volume.
 
 ****News Data:-****
+<br/>
 **Source:** Times of India News Headlines dataset.
 <br/>
 **Timeframe:** 2001-01-02 to 2020-12-31.
