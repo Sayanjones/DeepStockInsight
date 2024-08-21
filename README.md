@@ -56,10 +56,10 @@ Scaled the features using MinMaxScaler.
 Trained the model over 10 epochs with a batch size of 8.
 
 ### Evaluation:
-**1.  Training Loss:** 0.2717
-**2. Test Loss:** 1.2888
-**3. RMSE:** 651.2819
-**4. R2 Score:** 0.9738
+**Training Loss:** 0.2717,
+**Test Loss:** 1.2888,
+**RMSE:** 651.2819,
+**R2 Score:** 0.9738
 
 ### Results:
 The model successfully predicted stock prices with a high degree of accuracy, achieving an R2 score of 0.9738 and a RMSE of 651.2819. The integration of sentiment analysis provided additional context to the stock price movements, improving the prediction performance.
