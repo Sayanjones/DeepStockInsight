@@ -69,7 +69,7 @@ The predicted stock prices are plotted against the actual test data to visualize
 
 ### Installation:
 1. Clone the repository:```git clone https://github.com/your-username/StockFusion.git```
-<br/>
+   
 2. Run the notebook or script to train the model and make predictions.
 
 ### Usage:
