@@ -108,10 +108,6 @@ Contributions to the project are welcome! Please feel free to fork the repositor
 3. Implement your changes.
 4. Submit a pull request with a description of the changes.
 
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).  
 
 ---  
 
