@@ -1,4 +1,4 @@
-# StockFusion: Hybrid Model for Stock Price Forcasting
+# StockFusion: Hybrid Model for Stock Price Forecasting
 
 ## Project Overview
 **StockFusion** is a hybrid model designed to predict stock prices by integrating two powerful data sources: **historical stock prices** and **sentiment analysis of news headlines**. This project aims to enhance the accuracy of stock price predictions by leveraging traditional numerical analysis combined with sentiment-driven insights from news articles, creating a more robust forecasting model.
