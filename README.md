@@ -79,8 +79,8 @@ The predicted stock prices are plotted against the actual test data to visualize
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/StockFusion.git
-   cd StockFusion
+   git clone https://github.com/your-username/DeepStockInsight.git
+   cd DeepStockInsight
    ```
 
 2. **Install Dependencies:**
